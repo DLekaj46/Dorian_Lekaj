@@ -1,0 +1,40 @@
+.optimizirane_slike {
+    width: 450px;  
+    height: auto;  
+    max-width: 100%;
+}
+
+.materimac_sekcija {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.materimac_sekcija p {
+    line-height: 1.6;
+    margin-bottom: 16px;
+}
+
+.materimac_sekcija strong {
+    color: #000;
+    font-weight: bold;
+}
+
+.materimac_sekcija em {
+    color: #555;
+    font-style: italic;
+}
+
+.materimac_sekcija blockquote {
+    font-style: italic;
+    color: #666;
+    border-left: 4px solid #ccc;
+    padding-left: 16px;
+    margin-left: 0;
+}
+
